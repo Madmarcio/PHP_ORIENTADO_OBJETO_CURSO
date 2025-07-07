@@ -1,0 +1,30 @@
+1 = echo "# PHP_ORIENTADO_OBJETO_CURSO" >> README.md
+2 = git init
+3 = git add README.md
+4 = git commit -m "first commit"
+5 = git branch -M main
+6 = git remote add origin https://github.com/Madmarcio/PHP_ORIENTADO_OBJETO_CURSO.git
+7 = git push -u origin main
+
+
+8 = git init 'Inicia o github'
+9 = git status
+10 = git add . 'Adiciona todos os arquivos'
+11 = git commit -m 'Adicionando arquivos via comando'
+12 = git push
+
+
+Fazendo versionamento no git
+git init
+git add .
+
+
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/Madmarcio/PHP_ORIENTADO_OBJETO_CURSO.git
+git branch -M main
+git push -u origin main
+
+
+https://github.com/Madmarcio/PHP_ORIENTADO_OBJETO_CURSO.git
