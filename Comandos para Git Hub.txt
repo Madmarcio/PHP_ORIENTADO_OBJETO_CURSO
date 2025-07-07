@@ -17,6 +17,9 @@
 Fazendo versionamento no git
 git init
 git add .
+git commit -m 'arquivo editado'
+git push
+
 
 
 
